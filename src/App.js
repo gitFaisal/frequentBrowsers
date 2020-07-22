@@ -9,7 +9,7 @@ class App extends Component {
     };
 
   async componentDidMount (){
-    const url = 'http://ec2-52-14-113-9.us-east-2.compute.amazonaws.com:8000/';
+    const url = 'https://cherreapi.tk';
     const response = await fetch(url);
     const data = await response.json();
     this.setState({people:data.reverse()});
