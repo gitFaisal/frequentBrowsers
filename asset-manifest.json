@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/frequentBrowsers/static/css/main.ce60d0aa.chunk.css",
-    "main.js": "/frequentBrowsers/static/js/main.c3dd7253.chunk.js",
-    "main.js.map": "/frequentBrowsers/static/js/main.c3dd7253.chunk.js.map",
-    "runtime-main.js": "/frequentBrowsers/static/js/runtime-main.61577c10.js",
-    "runtime-main.js.map": "/frequentBrowsers/static/js/runtime-main.61577c10.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/frequentBrowsers/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.01d72e80.chunk.js": "/frequentBrowsers/static/js/2.01d72e80.chunk.js",
-    "static/js/2.01d72e80.chunk.js.map": "/frequentBrowsers/static/js/2.01d72e80.chunk.js.map",
-    "index.html": "/frequentBrowsers/index.html",
-    "precache-manifest.1bc31ed964ac67895794cb5653875d58.js": "/frequentBrowsers/precache-manifest.1bc31ed964ac67895794cb5653875d58.js",
-    "service-worker.js": "/frequentBrowsers/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/frequentBrowsers/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.ce60d0aa.chunk.css.map": "/frequentBrowsers/static/css/main.ce60d0aa.chunk.css.map",
-    "static/js/2.01d72e80.chunk.js.LICENSE.txt": "/frequentBrowsers/static/js/2.01d72e80.chunk.js.LICENSE.txt"
+    "main.css": "/frequentbrowsers/static/css/main.ce60d0aa.chunk.css",
+    "main.js": "/frequentbrowsers/static/js/main.df634ec6.chunk.js",
+    "main.js.map": "/frequentbrowsers/static/js/main.df634ec6.chunk.js.map",
+    "runtime-main.js": "/frequentbrowsers/static/js/runtime-main.a02e1c5c.js",
+    "runtime-main.js.map": "/frequentbrowsers/static/js/runtime-main.a02e1c5c.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/frequentbrowsers/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.01d72e80.chunk.js": "/frequentbrowsers/static/js/2.01d72e80.chunk.js",
+    "static/js/2.01d72e80.chunk.js.map": "/frequentbrowsers/static/js/2.01d72e80.chunk.js.map",
+    "index.html": "/frequentbrowsers/index.html",
+    "precache-manifest.666e86342a9a1a09bb55639d70cc8d58.js": "/frequentbrowsers/precache-manifest.666e86342a9a1a09bb55639d70cc8d58.js",
+    "service-worker.js": "/frequentbrowsers/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/frequentbrowsers/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.ce60d0aa.chunk.css.map": "/frequentbrowsers/static/css/main.ce60d0aa.chunk.css.map",
+    "static/js/2.01d72e80.chunk.js.LICENSE.txt": "/frequentbrowsers/static/js/2.01d72e80.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.61577c10.js",
+    "static/js/runtime-main.a02e1c5c.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.01d72e80.chunk.js",
     "static/css/main.ce60d0aa.chunk.css",
-    "static/js/main.c3dd7253.chunk.js"
+    "static/js/main.df634ec6.chunk.js"
   ]
 }
